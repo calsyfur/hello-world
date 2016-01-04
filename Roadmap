@@ -1,0 +1,31 @@
+
+Basic Chat Bot Features
+  Authenticate User [Broadcaster]
+    - Dashboard
+  Join / Leave chat
+  Monitor Chat
+    - Track Viewers && Point System
+      [Follow Date / Hours Watched / Points]
+        // Level System to be implemented later! [Premium?]
+        - if new viewer, add
+        - if old viewer, update
+    - Custom Commands
+      [cmd name / text / cost / repeat every x?]
+    - Roulette
+    - Queue
+    - 8ball
+
+
+
+Future Implementations / Features:
+  Stream Info:
+    !uptime
+    !set stream title / status
+    !set game title
+  Chat Moderation - Spam, Filters, ETC
+  Host Notification
+  Sub Notification
+  Song Requests and DJ
+  Raffles [more points => more tickets => more chance]
+  Giveaways? [twitch already has built-in] [redundant]
+  Polls
